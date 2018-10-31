@@ -1,6 +1,7 @@
 {
   "name": "data-table",
   "version": "0.0.0",
+  "author": "Maro Radovic <maro.radovic12@gmail.com",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --open",
